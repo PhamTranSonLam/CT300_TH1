@@ -1,4 +1,4 @@
-#include <stdio.h>
-int main() {
-printf("Hello Word");
+for (int count = 1; count <= 10; count++)
+{
+	cout << "count = " << count << endl;
 }
